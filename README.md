@@ -17,7 +17,7 @@ However, I believe that technologies come and go, while certain programming fund
 
 I consider myself as a backend developer, but from time to time I happen to work in the frontend. However, I believe that 95% (my magic number, not confirmed by any research) of applications needing frontend can be written using server-side rendering with htmx. 
 
-📝 I irregularly write post on my [blog](https://javacaptain.dev/)
+📝 I irregularly write post on my [blog](https://javacaptain.com/)
 
 
 📫 If you think my skills and experience can help your project or business, please reach me out on [LinkedIn](https://www.linkedin.com/in/tomasz-zielichowski-ba540b135/).
